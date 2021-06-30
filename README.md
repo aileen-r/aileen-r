@@ -1,4 +1,4 @@
-[!Hello World 👋, I'm Aileen Rae](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cq7t2lpu3mi5ti5dawk4.png)
+![Hello World 👋, I'm Aileen Rae](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cq7t2lpu3mi5ti5dawk4.png)
 
 I'm a full stack web developer and I've built websites for some of the biggest media and entertainment names you can think of.
 
