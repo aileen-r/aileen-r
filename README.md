@@ -1,4 +1,17 @@
-### Hi there 👋
+# Hello World 👋
+
+I'm a full stack web developer and I've built websites for some of the biggest media and entertainment names you can think of.
+
+💼 I'm currently **open to work** and looking for a full-time position. Open to remote, but Edinburgh area preferred.
+
+
+## I work with...
+
+**VueJS** is my jam, but I'm just as proficient with **React**. On the backend I work with **.NET Core**, particularly **ABP Framework**.
+
+## I would like to start working with...
+
+**NodeJS** seems like the most exciting backend tech to learn, and I already love working in JavaScript.
 
 <!--
 **aileen-r/aileen-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
