@@ -2,8 +2,6 @@
 
 I'm a full stack web developer and I've built websites for some of the biggest media and entertainment names you can think of.
 
-💼 I'm currently **open to work** and looking for a full-time position. Open to remote, but Edinburgh area preferred.
-
 
 ### I work with...
 
