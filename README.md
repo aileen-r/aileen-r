@@ -17,6 +17,8 @@ I occasionally make small front end bits and bobs on [**Codepen**](https://codep
 
 I also float around on [**DEV.to**](https://dev.to/aileenr), as I aspire to do some dev blogging.
 
+If you're looking to reach out the more boring and professional way, you can message me on [LinkedIn](https://www.linkedin.com/in/aileen-rae/).
+
 <!--
 **aileen-r/aileen-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
