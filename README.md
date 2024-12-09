@@ -1,21 +1,17 @@
 ![Hello World 👋, I'm Aileen Rae](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cq7t2lpu3mi5ti5dawk4.png)
 
-I'm a full stack web developer and I've built websites for some of the biggest media and entertainment names you can think of.
+I'm a (mostly) frontend web developer working at [**Dayshape**](https://dayshape.com/) on the main Gantt interface in the resource management product. The bulk of my work is in data-heavy business logic, but recently I've been focussing on accessibility and our UI component library during our migration to Vue.
 
 
 ### I work with...
 
-**VueJS** is my jam, but I'm just as proficient with **React**. On the backend I work with **.NET Core**, particularly **ABP Framework**.
-
-### I would like to start working with...
-
-**NodeJS** seems like the most exciting backend tech to learn, and I already love working in JavaScript.
+**VueJS** is my jam, but I have a handful of years of experience with **React** (and **AngularJS** but I'd rather not work with it again). On the backend I work with **.NET** professionally while tinkering with **NodeJS** in my own time (JavaScript is my happy place).
 
 ### You can also find me...
 
 I occasionally make small front end bits and bobs on [**Codepen**](https://codepen.io/aileen-r).
 
-I also float around on [**DEV.to**](https://dev.to/aileenr), as I aspire to do some dev blogging.
+I also float around on [**DEV.to**](https://dev.to/aileenr) where I blog once in a blue moon.
 
 If you're looking to reach out the more boring and professional way, you can message me on [LinkedIn](https://www.linkedin.com/in/aileen-rae/).
 
